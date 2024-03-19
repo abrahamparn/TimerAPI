@@ -6,7 +6,7 @@
 <li>Git Clone the project</li>
 <li>run: npm install</li>
 <li>run: npm run watch</li>
-<ol>
+</ol>
 
 <h3>TO USE</h3>
 1. Run the project
